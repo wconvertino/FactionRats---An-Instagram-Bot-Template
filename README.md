@@ -2,7 +2,7 @@
 An Instagram bot.
 
 
-#Dependencies
+# Dependencies
 Instapy-cli
 Instaloader
 The built-in OS module
