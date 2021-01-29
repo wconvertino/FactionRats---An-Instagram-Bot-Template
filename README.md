@@ -1,5 +1,5 @@
 # FactionRats
-A configurable template for an Instagram bot that automatically posts pictures/videos from other accounts.
+A configurable template for an Instagram bot that automatically posts pictures/videos from desired accounts.
 
 Example account - "FactionRats":
 https://www.instagram.com/factionrats/
